@@ -1,0 +1,49 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Ren, JX
+   Wang, SB
+   Song, RL
+   Wu, YJ
+   Gao, YZ
+   An, BR
+   Cheng, Z
+   Xu, GQ
+AF Ren, Junxiang
+   Wang, Sibo
+   Song, Ruilin
+   Wu, Yuejiao
+   Gao, Yizhou
+   An, Borong
+   Cheng, Zhen
+   Xu, Guoqiang
+BE Sun, M
+   Qi, G
+   Liu, K
+   Ren, J
+   Xu, B
+   Feng, Y
+   Liu, Y
+   Chen, Y
+TI IREE: A Fine-Grained Dataset for Chinese Event Extraction in Investment
+   Research
+SO KNOWLEDGE GRAPH AND SEMANTIC COMPUTING: KNOWLEDGE GRAPH EMPOWERS THE
+   DIGITAL ECONOMY, CCKS 2022
+SE Communications in Computer and Information Science
+CT 7th China Conference on Knowledge Graph and Semantic Computing (CCKS)
+CY AUG 24-27, 2022
+CL Qinhuangdao, PEOPLES R CHINA
+SP EpiK Tech, Meituan, Tencent Technol, Haizhi Xingtu Technol, Global Tone Communicat Technol, Oppo, Haiyizhi Informat Technol, Ant Group, Xiaomi, Baidu, TOP KG, Vesoft, Yidu Cloud, Huawei, IFLYTEK, 360 Artificial Intelligence Inst, Zhipu.ai, Yunfu Technol, Magic Data, OneConnect Technol, Chinese Informat Proc Soc, Tech Comm Language & Knowledge Comp
+AB This paper introduces a dataset for event extraction in the field of investment research. Event extraction is a key area of research in the field of investment. In recent years, a large number of datasets for common event extraction as well as financial event extraction have been released. However, they only cover few event types compared with real-world business scenarios. Hence, by combining actual requirements of financial investment risk management with business needs and experience in terms of investment, we construct a dataset for financial event extraction. The released dataset is the first fine-grained dataset for event extraction in investment research areas, with 5 main categories and 59 event types totally. The dataset is available on http://openkg.cn/dataset/iree.
+SN 1865-0929
+EI 1865-0937
+BN 978-981-19-7595-0; 978-981-19-7596-7
+PY 2022
+VL 1669
+BP 205
+EP 210
+DI 10.1007/978-981-19-7596-7_16
+UT WOS:000922056700016
+ER
+
+EF

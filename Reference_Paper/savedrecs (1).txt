@@ -1,0 +1,30 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Trong, HMD
+   Le, DT
+   Ben Veyseh, AP
+   Nguyen, T
+   Nguyen, TH
+AF Trong, Hieu Man Duc
+   Le, Duc Trong
+   Veyseh, Amir Pouran Ben
+   Nguyen, Thuat
+   Nguyen, Thien Huu
+GP Assoc Computat Linguist
+TI Introducing a New Dataset for Event Detection in Cybersecurity Texts
+SO PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL
+   LANGUAGE PROCESSING (EMNLP)
+CT Conference on Empirical Methods in Natural Language Processing (EMNLP)
+CY NOV 16-20, 2020
+CL ELECTR NETWORK
+SP Bloomberg Engn, Google Res, Apple, Amazon Sci, Baidu, Megagon Labs, Facebook, DeepMind, Grammarly, ByteDance, Zeta Alpha, Babelscape, Naver, Adobe, Hitachi, Salesforce, Univ So Calif, Viterbi Sch Engn, Informat Sci Inst
+AB Detecting cybersecurity events is necessary to keep us informed about the fast growing number of such events reported in text. In this work, we focus on the task of event detection (ED) to identify event trigger words for the cybersecurity domain. In particular, to facilitate the future research, we introduce a new dataset for this problem, characterizing the manual annotation for 30 important cybersecurity event types and a large dataset size to develop deep learning models. Comparing to the prior datasets for this task, our dataset involves more event types and supports the modeling of document-level information to improve the performance. We perform extensive evaluation with the current state-of-the-art methods for ED on the proposed dataset. Our experiments reveal the challenges of cybersecurity ED and present many research opportunities in this area for the future work.
+BN 978-1-952148-60-6
+PY 2020
+BP 5381
+EP 5390
+UT WOS:000855160705043
+ER
+
+EF

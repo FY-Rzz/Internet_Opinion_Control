@@ -1,0 +1,43 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT C
+AU Wang, XZ
+   Wang, ZQ
+   Han, X
+   Jiang, WY
+   Han, R
+   Liu, ZY
+   Li, JZ
+   Li, P
+   Lin, YK
+   Zhou, J
+AF Wang, Xiaozhi
+   Wang, Ziqi
+   Han, Xu
+   Jiang, Wangyi
+   Han, Rong
+   Liu, Zhiyuan
+   Li, Juanzi
+   Li, Peng
+   Lin, Yankai
+   Zhou, Jie
+GP Assoc Computat Linguist
+TI MAVEN: A Massive General Domain Event Detection Dataset
+SO PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL
+   LANGUAGE PROCESSING (EMNLP)
+CT Conference on Empirical Methods in Natural Language Processing (EMNLP)
+CY NOV 16-20, 2020
+CL ELECTR NETWORK
+SP Bloomberg Engn, Google Res, Apple, Amazon Sci, Baidu, Megagon Labs, Facebook, DeepMind, Grammarly, ByteDance, Zeta Alpha, Babelscape, Naver, Adobe, Hitachi, Salesforce, Univ So Calif, Viterbi Sch Engn, Informat Sci Inst
+AB Event detection (ED), which means identifying event trigger words and classifying event types, is the first and most fundamental step for extracting event knowledge from plain text. Most existing datasets exhibit the following issues that limit further development of ED: (1) Data scarcity. Existing small-scale datasets are not sufficient for training and stably benchmarking increasingly sophisticated modern neural methods. (2) Low coverage. Limited event types of existing datasets cannot well cover general-domain events, which restricts the applications of ED models. To alleviate these problems, we present a MAssive eVENt detection dataset (MAVEN), which contains 4, 480 Wikipedia documents, 118, 732 event mention instances, and 168 event types. MAVEN alleviates the data scarcity problem and covers much more general event types. We reproduce the recent state-of-the-art ED models and conduct a thorough evaluation on MAVEN. The experimental results show that existing ED methods cannot achieve promising results on MAVEN as on the small datasets, which suggests that ED in the real world remains a challenging task and requires further research efforts. We also discuss further directions for general domain ED with empirical analyses. The source code and dataset can be obtained from https://github.com/THU-KEG/MAVEN-dataset.
+RI Liu, Zhiyuan/I-2233-2014; wang, ziqi/IQS-5011-2023; Wang,
+   Xiaozhi/IQT-4844-2023
+OI Li, Peng/0000-0003-1374-5979; Liu, Zhiyuan/0000-0002-7709-2543
+BN 978-1-952148-60-6
+PY 2020
+BP 1652
+EP 1671
+UT WOS:000855160701069
+ER
+
+EF
